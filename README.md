@@ -1,4 +1,4 @@
-## GitHub Workshop Notes
+## GitHub Workshop Notes - Changa
 
 ### Commands Cheatsheet
 
