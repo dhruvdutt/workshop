@@ -27,9 +27,13 @@
 
 ## JavaScript Workshop Notes
 
-### JavaScript Basics
+### JavaScript Courses
 
-- [Exercise](https://codesandbox.io/s/8kk1m79838)
+- [LearnCode Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv) *Highly Recommended
+- [The New Boston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
+
+- [Mozilla JS docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+- [W3C JS docs](https://www.w3schools.com/jS/default.asp)
 
 ---
 
